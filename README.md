@@ -8,6 +8,12 @@ Curso 2014-2015
 
 Este repositorio contiene algunos ejemplos de [IPython Notebooks](http://ipython.org/notebook.html) usados en clase para aprender rudimentos de programación en Python y algunas de las herramientas de procesamiento del lenguaje más habituales.
 
+### Cuadernos
+
+- [Introducción a Python: variables y estructuras de
+  datos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/1-Intro-Python.ipynb)
+
+
 ### Licencia
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img
