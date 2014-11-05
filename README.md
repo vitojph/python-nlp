@@ -13,6 +13,7 @@ Este repositorio contiene algunos ejemplos de [IPython Notebooks](http://ipython
 - [Introducción a Python: variables y estructuras de
   datos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/1-Intro-Python.ipynb)
 
+- [Introducción a Python: control de flujo](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/2-Python-control-fujo.ipynb)
 
 ### Licencia
 
