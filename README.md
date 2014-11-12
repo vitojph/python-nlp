@@ -16,9 +16,10 @@ Este repositorio contiene algunos ejemplos de [IPython Notebooks](http://ipython
 - [Introducción a Python: control de flujo](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/2-Python-control-fujo.ipynb)
 
 - [Introducción a Python:
-  bubles](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/3-Python-bucles.ipynb)
+  bucles](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/3-Python-bucles.ipynb)
 
-
+- [Introducción
+  a Python: funciones](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/4-Python-Funciones.ipynb)
 
 ### Licencia
 
