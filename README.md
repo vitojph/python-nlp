@@ -21,6 +21,10 @@ Este repositorio contiene algunos ejemplos de [IPython Notebooks](http://ipython
 - [Introducción
   a Python: funciones](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/4-Python-Funciones.ipynb)
 
+- [Resumen NLTK: Acceso a corpus de texto y recursos léxicos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/5-nltk-corpus.ipynb)
+
+
+
 ### Licencia
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img
