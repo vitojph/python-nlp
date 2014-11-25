@@ -19,7 +19,7 @@ Este repositorio contiene algunos ejemplos de [IPython Notebooks](http://ipython
   bucles](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/3-Python-bucles.ipynb)
 
 - [Introducción
-  a Python: funciones](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/4-Python-Funciones.ipynb)
+  a Python: funciones](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/4-Python-funciones.ipynb)
 
 - [Resumen NLTK: Acceso a corpus de texto y recursos léxicos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/5-nltk-corpus.ipynb)
 
