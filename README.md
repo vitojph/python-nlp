@@ -23,6 +23,9 @@ Este repositorio contiene algunos ejemplos de [IPython Notebooks](http://ipython
 
 - [Resumen NLTK: Acceso a corpus de texto y recursos léxicos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/5-nltk-corpus.ipynb)
 
+- [Resumen NLTK: Etiquetado morfológico (*part-of-speech tagging*)](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/6-nltk-pos.ipynb)
+
+
 
 
 ### Licencia
