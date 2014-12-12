@@ -25,6 +25,13 @@ Este repositorio contiene algunos ejemplos de [IPython Notebooks](http://ipython
 
 - [Resumen NLTK: Etiquetado morfológico (*part-of-speech tagging*)](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/6-nltk-pos.ipynb)
 
+- [Resumen NLTK: análisis sintáctico](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/7-nltk-analyzers.ipynb)
+
+- [Resumen pattern.en y pattern.es: procesamiento del lenguaje en inglés y español](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/8-pattern-en-es.ipynb)
+
+- [Resumen pattern.web: accediendo a buscadores, Wikipedia y Twitter](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/9-pattern-web.ipynb)
+
+- [Resumen TextBlob: herramientas de Procesamiento de Texto](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/10-textblob.ipynb)
 
 
 
