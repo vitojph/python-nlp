@@ -4,8 +4,6 @@
 
 ## Grado en Lingüística y Lenguas Aplicadas, Fac. de Filología, UCM
 
-Curso 2014-2015
-
 ### Presentación
 
 Este repositorio contiene algunos ejemplos de [IPython Notebooks](http://ipython.org/notebook.html) usados en clase para aprender rudimentos de programación en Python y algunas de las herramientas de procesamiento del lenguaje más habituales.
