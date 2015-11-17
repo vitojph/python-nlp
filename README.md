@@ -6,32 +6,12 @@
 
 ### Presentación
 
-Este repositorio contiene algunos ejemplos de [IPython Notebooks](http://ipython.org/notebook.html) usados en clase para aprender rudimentos de programación en Python y algunas de las herramientas de procesamiento del lenguaje más habituales.
+Este repositorio contiene algunos ejemplos de [Jupyter Notebooks](https://jupyter.org/) usados en clase para aprender rudimentos de programación en Python y algunas de las herramientas de procesamiento del lenguaje más habituales.
 
 ### Cuadernos
 
 - [Introducción a Python: variables y estructuras de
-  datos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/1-Intro-Python.ipynb)
-
-- [Introducción a Python: control de flujo](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/2-Python-control-fujo.ipynb)
-
-- [Introducción a Python:
-  bucles](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/3-Python-bucles.ipynb)
-
-- [Introducción
-  a Python: funciones](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/4-Python-funciones.ipynb)
-
-- [Resumen NLTK: Acceso a corpus de texto y recursos léxicos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/5-nltk-corpus.ipynb)
-
-- [Resumen NLTK: Etiquetado morfológico (*part-of-speech tagging*)](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/6-nltk-pos.ipynb)
-
-- [Resumen NLTK: análisis sintáctico](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/7-nltk-analyzers.ipynb)
-
-- [Resumen pattern.en y pattern.es: procesamiento del lenguaje en inglés y español](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/8-pattern-en-es.ipynb)
-
-- [Resumen pattern.web: accediendo a buscadores, Wikipedia y Twitter](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/9-pattern-web.ipynb)
-
-- [Resumen TextBlob: herramientas de Procesamiento de Texto](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/10-textblob.ipynb)
+  datos](http://nbviewer.ipython.org/github/vitojph/python-nlp/blob/master/1-Intro-Python.ipynb)
 
 
 
